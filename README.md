@@ -7,7 +7,7 @@ Fixing LegoRacers maximising issues.
 - Place the executable in the same folder as the Lego Racers program file
 - Run the fix in admin
 
-To automate the process you can place the batch file in the game folder and run
+To automate the process you can also place the batch file in the game folder and run
 
 ## Troubleshooting
 - If your game doesnt open in admin by default, try removing lines 1-9 in the batch file to run everything without elevated permissions
